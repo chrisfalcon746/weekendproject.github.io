@@ -1,0 +1,107 @@
+
+
+.search-box{
+    border-radius: 40px;
+    padding: 5px;
+}
+.top-left{
+    display:flex;
+    font-size: 50px;
+    padding: 0px;
+     
+}
+
+#github{
+    padding-left:30px;
+    padding-right:10px;
+    border-right: solid black;
+}
+
+.top-right{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.top-right-icon{
+    padding: 10px;
+}
+.search-bar{
+    border-bottom: solid black;     
+}
+
+.left-icon{
+    display:flex;
+    flex-direction: column; 
+    padding-left: 0px;
+    background-color: gray;
+    border-right:solid black;
+    
+}
+
+.left-icon,li{
+    margin:15px;
+    list-style-type: none;
+    
+}
+
+.wrapping{
+    display:flex;
+    flex-wrap:wrap;
+    background-color: lightgray;
+}
+
+.warp-box{
+    display:flex;
+    flex-wrap: flex;
+}
+
+.algo-box{
+    margin-top: 10px;
+    border-top: 10px;
+    border:solid black;
+    
+}
+
+/*Move this to the end*/
+.algo-list{
+    list-style-type: none;
+    display:flex;
+    width:300px;
+    margin-left: 170px;
+    justify-content: flex-end;
+    margin: 0px;
+}
+
+.box-txt{
+    list-style-type: none;
+    display:flex;
+    padding-left:0px;
+    
+}
+
+.text-box{
+    border:solid black;
+    
+}
+
+.right-icon{
+    display: flex;
+    flex-direction: column;
+    padding-top: 12%;
+    list-style-type: upper-latin;
+}
+
+p.pre{
+    white-space: pre;
+}
+
+.h1{
+    margin-right:400px;
+    font-size: 30px;
+}
+
+h4{
+    padding-left: 50px;
+}
+
+
